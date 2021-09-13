@@ -1,1 +1,45 @@
-*{background-color:blue}
+*{
+  background-color: #E8CEBF;
+}
+
+h1{
+  font-size: 2.5rem;
+  color: #4F4846;
+  font-family: 'Patrick Hand SC', cursive;
+}
+
+h2{
+  font-size: 2rem;
+  color: #4F4846;
+  font-family: 'Patrick Hand SC', cursive;
+}
+
+h3{
+  font-size: 1.5rem;
+  color: #4F4846;
+  font-family: 'Patrick Hand SC', cursive;
+}
+
+h4{
+  font-size:1.0;
+  color: #4F4846;
+  font-family: 'Patrick Hand SC', cursive;
+}
+
+p{
+  color: #FDF8F5;
+  font-family: 'Patrick Hand', cursive;
+}
+
+a{
+  background-color: #ddaf94;
+  color: #fdf8f5;
+  text-decoration: none;
+  padding: 20px;
+  font-family: 'Patrick Hand', cursive;
+}
+
+li{
+  color:#fdf8f5;
+  font-family: 'Patrick Hand', cursive;
+}
